@@ -1,0 +1,11 @@
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\bin\Debug\Ders2Pizza.exe.config
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\bin\Debug\Ders2Pizza.exe
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\bin\Debug\Ders2Pizza.pdb
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.csproj.AssemblyReference.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.Form1.resources
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.Properties.Resources.resources
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.csproj.GenerateResource.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.exe
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2Pizza\Ders2Pizza\obj\Debug\Ders2Pizza.pdb
